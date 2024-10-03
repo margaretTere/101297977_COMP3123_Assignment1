@@ -1,0 +1,21 @@
+{
+  "name": "101297977_comp3123_assignment1",
+  "version": "1.0.0",
+  "description": "Comp 3123 Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Margaret Terechtchenko 101297977",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}
